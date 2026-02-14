@@ -1,13 +1,29 @@
-How have you used AI for coding so far?
+Exercise 1: The Palindrome Challenge
 
-I have used AI in several ways, soome of the ways I have used AI include but not limited to: 
-1. Pure Code Generation: Generating an entirely code for a project with limit to no knowledges about the logics and concept involved in how the codes run. 
-2. Explain code block: I use AI to explain block of codes, code snippet or break down the concept behind  a project. 
-3. Debugginng: I used AI to explain errors and troubleshoot where the issues in a program comes from and how to resolve it. Sometimes, I go ahead to use AI to resolve the error; generating new codes.
+Objective: Experience the difference between using AI as a shortcut and using it as a learning tool.
+Step 1 - Do it yourself
 
+    Write pseudocode for a function that checks if a string is a palindrome.
 
-Do you usually try problems yourself first?
+    Implement your solution in Python.
 
-Depending on the problem; if I have don't have any idea about the problem and I am pressed fortime, I just let AI handled it. Other times, I tried it first or I create the logic and allow AI to handled the rest. 
+    Test with examples like "racecar", "hello", and "A man a plan a canal Panama".
 
+    Add comments explaining your reasoning.
 
+Step 2 - Use AI to learn
+
+Now that your function works, use AI to go deeper:
+"I wrote a palindrome function. Here's my code:
+[insert your code]
+
+What's the time complexity?
+What edge cases might I miss?
+Are there better approaches?"
+Step 3 - Reflection
+
+    What did you learn from solving it before asking AI?
+
+    How is your understanding different now?
+
+    Could you now write similar functions (e.g., reverse a string) without help?
